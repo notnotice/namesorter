@@ -1,0 +1,15 @@
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\NameSorter.exe
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\NameSorter.deps.json
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\NameSorter.runtimeconfig.json
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\NameSorter.runtimeconfig.dev.json
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\NameSorter.dll
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\NameSorter.pdb
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp3.1\NameSorter.AssemblyInfoInputs.cache
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp3.1\NameSorter.AssemblyInfo.cs
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp3.1\NameSorter.dll
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp3.1\NameSorter.pdb
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\unsorted-names-list.txt
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp3.1\NameSorter.csproj.CopyComplete
+C:\Users\d2puach\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp3.1\NameSorter.csprojAssemblyReference.cache
